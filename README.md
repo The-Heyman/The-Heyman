@@ -1,6 +1,6 @@
-# Hi there 👋🏿
+# Hi there 👋🏿 Alex is the name.
 
-## I am a cloud automation (DevOps) Engineer currently working at A. P. Moller Maersk.
+## Cloud automation (DevOps) Engineer
 
 I am specialising in Microsoft Technologies with main focus on Azure, C# and Python. That said, I have worked with AWS for a year and still open to work on any project on AWS.
 
