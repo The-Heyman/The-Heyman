@@ -1,6 +1,6 @@
-# Hi there 👋🏿 Alex is the name.
+### Hello 👋🏿 I'm Alex.
 
-## Cloud automation (DevOps) Engineer
+### Cloud automation (DevOps) Engineer
 
 I am specialising in Microsoft Technologies with main focus on Azure, C# and Python. That said, I have worked with AWS for a year and still open to work on any project on AWS.
 
