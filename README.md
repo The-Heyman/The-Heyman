@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏿
 
 - 🔭 I’m currently working on a new cross platform mobile app using Xamarin framework with C#  in my spare time.
 - 🌱 So out of curiousity I decided to try out apple's new SwiftUI framework and ended up publishing my 1st iOS App to the App Store 😀
