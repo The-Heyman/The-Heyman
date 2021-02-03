@@ -2,7 +2,7 @@
 
 ### Cloud automation (DevOps) Engineer
 
-I am specialising in Microsoft Technologies with main focus on Azure, C# and Python. That said, I have worked with AWS for a year and still open to work on any project on AWS.
+I am currently working a lot with Microsoft Technologies with main focus on Azure, C# and Python. That said, I have worked with AWS for a year and still have some side projects running on AWS.
 
 I like to work with IaC using Terraform mainly, Configuration management using Ansible. When it comes to containers, Docker hub or ACR and Azure kubernetes Services are my go to. For CI/CD, Azure DevOps is my alpha, Jenkins my omega and GitHub Actions my beta 😄
 
