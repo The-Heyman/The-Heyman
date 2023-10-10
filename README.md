@@ -1,14 +1,23 @@
-### Hello 👋🏿 I'm Alex.
+🚀 **Cloud Maestro & FinTech DevOps Prodigy: Mastering the Digital Skies!**
 
-### DevOps Engineer
+Dive into the world of a seasoned technologist shaping the future of cloud and security in the financial sector. At SimCorp, I don't just "work" - I architect, I lead, I innovate as the proud Product Owner of our groundbreaking SaaS Developer Platform, and drive the future of Identity and Access Management, all nestled within the robust Azure cloud ecosystem.
 
-I am currently working a lot with Microsoft Technologies with main focus on Azure, C#, Powersell and Python. That said, I have worked with AWS for a year and still have some side projects running on AWS. I am also trying my hands on iOS development using Swift and SwiftUI
+🔧 Over the past half-decade, I’ve donned the hat of a DevOps Engineer, sculpting infrastructures and pipelines that are nothing short of masterpieces. My toolkit?
+- IaC? Say hello to Terraform, ARM, and Bicep.
+- CI/CD? Meet my trusted allies: Azure DevOps pipelines, GitHub Actions, and Jenkins.
+- Containers? I dance with Docker, ACR, and Azure Kubernetes Services.
+- Coding? I fluently speak C#, Python, Swift, Dart, and Powershell, to name a few.
 
-I like to work with IaC using Terraform mainly or ARM templates and Configuration management using Ansible. When it comes to containers, Docker hub or ACR and Azure kubernetes Services are my go to. For CI/CD, Azure DevOps or Jenkins.
+But wait, there’s more to this tale!
 
-Aside work and the cloud, I have other interests as u will soon find out below👇🏿
-- 🔭 I’m currently working on a new cross platform mobile app using Xamarin framework with C#  in my spare time.
-- 🌱 So out of curiosity I decided to try out Apple's new SwiftUI framework and ended up publishing my 1st iOS App to the App Store 😀
-- 👯 I’m looking to collaborate on interesting iOS projects.
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/alex-gameli-heyman-1a556070/)
-- ⚡ Fun fact: I used to DJ in my university's Friday bar 😀
+📱 Venture beyond the cloud and you'll find me crafting the future of mobile experiences. From SwiftUI to Flutter, I’ve birthed apps that have not only taken flight but soared! My proudest moments?
+- My PDF Translator app boasting a whopping 140K downloads across platforms.
+- My revolutionary Parking Information app for Copenhagen, guiding users to spots where they can park without fretting over fines. A true game-changer for city drivers!
+
+🛍️ Next on my horizon? Pioneering Marketplace apps targeting B2B. Stay tuned, because when I venture, I make waves.
+
+🔗 Want to collaborate, network, or just chat about the latest in tech? Find me on [LinkedIn](#).
+
+⚡ Oh, and a little throwback? I used to be the life of the party, DJing at my university's Friday bars. Because, why not? 😄
+
+Step into my world, where cloud meets code, and innovation knows no bounds!
