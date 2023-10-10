@@ -11,12 +11,12 @@ Dive into the world of a seasoned technologist shaping the future of cloud and s
 But wait, there’s more to this tale!
 
 📱 Venture beyond the cloud and you'll find me crafting the future of mobile experiences. From SwiftUI to Flutter, I’ve birthed apps that have not only taken flight but soared! My proudest moments?
-- My PDF Translator app boasting a whopping 140K downloads across platforms.
-- My revolutionary Parking Information app for Copenhagen, guiding users to spots where they can park without fretting over fines. A true game-changer for city drivers!
+- 📈 My [PDF Translator app](https://pdftranslator.dk) boasting a whopping 140K downloads across platforms.
+- 🅿️ My revolutionary [Parking Zone app](https://parkingzone.io) for Copenhagen, guiding users to spots where they can park without fretting over fines. A true game-changer for city drivers!
 
 🛍️ Next on my horizon? Pioneering Marketplace apps targeting B2B. Stay tuned, because when I venture, I make waves.
 
-🔗 Want to collaborate, network, or just chat about the latest in tech? Find me on [LinkedIn](#).
+🔗 Want to collaborate, network, or just chat about the latest in tech? [Connect on LinkedIn](https://www.linkedin.com/in/alex-gameli-heyman-1a556070/).
 
 ⚡ Oh, and a little throwback? I used to be the life of the party, DJing at my university's Friday bars. Because, why not? 😄
 
